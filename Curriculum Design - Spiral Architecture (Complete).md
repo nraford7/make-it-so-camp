@@ -570,13 +570,14 @@ Not just technical skills, but metacognitive ability to recognize implicit patte
 
 ---
 
-## Open Questions for Refinement
+## Open Design Questions
 
-1. **Group Size**: What's optimal? (Recommend: 8-12 participants)
-2. **Async Support**: How much facilitation during the week? (Office hours? Slack?)
-3. **Assessment**: How do we evaluate success beyond deliverables?
-4. **Alumni Path**: What happens after camp? (Community? Advanced modules?)
-5. **Adaptation**: Can Loop 1 work as standalone workshop for non-technical audiences?
+1. **Optimal group size**: What cohort size best supports peer observation and collaboration?
+2. **Async support structure**: What level of facilitation is needed during independent work?
+3. **Success evaluation**: How do we assess outcomes beyond tangible deliverables?
+4. **Alumni engagement**: What pathways exist after camp completion?
+5. **Modular delivery**: Can Loop 1 work as standalone workshop for non-technical audiences?
+6. **Delivery formats**: How does this adapt to different timeframes (2-day intensive vs. 2-week distributed)?
 
 ---
 
