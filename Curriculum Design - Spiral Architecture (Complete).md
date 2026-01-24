@@ -531,42 +531,42 @@ Not just technical skills, but metacognitive ability to recognize implicit patte
 
 ---
 
-## Next Steps for Implementation
+## Implementation Roadmap
 
-### Phase 1: Validate Design (Week 1)
-- [ ] Review full curriculum with Noah/partners
-- [ ] Test: Does this balance tool-building + pattern recognition?
-- [ ] Identify: What needs prototyping before full delivery?
+### Phase 1: Design Validation
+- Review curriculum architecture with partners (Noah, university stakeholders)
+- Validate: Does this balance tool-building + pattern recognition?
+- Identify: What needs prototyping before full delivery?
 
-### Phase 2: Develop Materials (Weeks 2-3)
-- [ ] Create all templates (briefs, protocols, documentation)
-- [ ] Write facilitator guide with timing + prompts
-- [ ] Develop example patterns library
-- [ ] Record setup videos (Claude Code installation, etc.)
+### Phase 2: Materials Development
+- Create all templates (briefs, protocols, documentation)
+- Develop example patterns library
+- Record setup resources (Claude Code installation, etc.)
+- Build facilitator guide (separate document)
 
-### Phase 3: Pilot (Week 4)
-- [ ] Run Loop 1 with small test group (3-4 people)
-- [ ] Validate: Do pattern mechanisms work?
-- [ ] Refine: Timing, prompts, templates
-- [ ] Document: What needs adjustment?
+### Phase 3: Pilot & Refinement
+- Run Loop 1 with small test group (3-4 people)
+- Validate: Do pattern mechanisms work?
+- Refine: Templates, prompts, examples
+- Document: What needs adjustment?
 
-### Phase 4: Full Delivery Prep (Week 5)
-- [ ] Finalize all materials based on pilot
-- [ ] Prep facilitators (if multiple)
-- [ ] Set up infrastructure (repos, shared docs)
-- [ ] Create participant pre-work package
+### Phase 4: Full Delivery Preparation
+- Finalize all materials based on pilot feedback
+- Prepare facilitators (if multiple)
+- Set up infrastructure (repos, shared docs)
+- Create participant pre-work package
 
-### Phase 5: First Full Delivery (Week 6)
-- [ ] Run 2-day intensive with full cohort
-- [ ] Document learnings in real-time
-- [ ] Capture participant protocols for library
-- [ ] Gather feedback for iteration
+### Phase 5: First Full Delivery
+- Run complete curriculum with full cohort
+- Document learnings in real-time
+- Capture participant protocols for library
+- Gather feedback for iteration
 
-### Phase 6: Iteration (Ongoing)
-- [ ] Refine based on first delivery
-- [ ] Build pattern library from participant work
-- [ ] Create alumni community/support
-- [ ] Evolve curriculum as tools/practices evolve
+### Phase 6: Continuous Improvement
+- Refine based on delivery experience
+- Build pattern library from participant work
+- Create alumni community/support structure
+- Evolve curriculum as tools/practices evolve
 
 ---
 
