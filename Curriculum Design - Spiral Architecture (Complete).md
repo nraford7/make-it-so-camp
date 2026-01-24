@@ -389,25 +389,34 @@ Group share: Volunteers share insights
 
 ---
 
-## Pattern-Keeping Mechanisms (Integrated Throughout)
+## Design Principles
 
-### 1. Structured Reflection Checkpoints
-- Loop 1: Pattern discovery template
-- Loop 2: Protocol creation template
-- Loop 3: Pattern stack documentation template
-- Not optional - mandatory deliverables at each loop
+### Critical Success Factors
 
-### 2. Peer Pattern Reviews
-- Loop 1: Observer notes patterns during building
-- Loop 2: Peer tests if protocol is usable
-- Loop 3: Cross-group protocol challenges
-- Continuous observation, not one-time
+**1. Pattern Focus Over Tool Excitement**
+Risk: Participants get excited about tools and forget pattern reflection
+Mitigation: Structured checkpoints are mandatory deliverables, not optional extras
+Facilitator stance: "What pattern are you discovering right now?"
 
-### 3. Pattern-First Briefs
-- Introduced in Loop 1
-- Formalized in Loop 2
-- Applied collaboratively in Loop 3
-- Forces articulation BEFORE building
+**2. Active Peer Observation**
+Observer role must be active, not passive watching
+Provide observers with specific prompts: "Note when they have to explain something"
+Rotate observers so everyone experiences both roles
+
+**3. Connect Technical Problems to Articulation**
+Participants will get stuck on technical problems
+Resist pure troubleshooting - connect it back to articulation
+Reframe: "What would you need to document to prevent this next time?"
+
+**4. Pattern Documentation as Design Work**
+Participants may want to skip documentation ("I'll do it later")
+Reframe: "This isn't homework, it's designing your operating system"
+Value proposition: "This protocol saves you time forever"
+
+**5. Explicit Frameworks in Collaboration**
+Groups will struggle with "whose pattern is right?"
+This is the point - negotiating explicit frameworks together
+Facilitator reframe: "There's no right pattern, just explicit vs. implicit"
 
 ---
 
